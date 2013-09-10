@@ -1,0 +1,15 @@
+# ignore all file
+/*
+/.*
+
+# manage by git
+!/.gitignore
+!/.gitmodules
+!/.vim
+!/.vimrc
+!/.gvimrc
+
+# ignore file
+/.vim/.bundle/
+/.vim/tmp/
+
